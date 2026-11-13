@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm a Full-Stack Developer 👋
 
-<!--
-**Jac00v/Jac00v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with a strong focus on backend development. I enjoy building things, solving problems, and working on projects that challenge me.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+My main languages are:
+- **C#**
+- **C++**
+- **Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm primarily interested in backend development, but I enjoy exploring the full stack and working across different parts of a project.
+
+### 🚀 What I Do
+Most of the projects you'll find here are small personal projects that I build whenever I feel like it.
+
+I enjoy experimenting with ideas, learning new things, and occasionally building something just for the fun of it. Not everything has to be a big project — sometimes it's just about making something cool.
+
+
+
+<p align="center">
+  <i>*"If you are what you eat, then I only want to eat the good stuff."🧀🐀*</i>
+</p>
