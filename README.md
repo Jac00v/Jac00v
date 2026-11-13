@@ -18,5 +18,5 @@ I enjoy experimenting with ideas, learning new things, and occasionally building
 
 
 <p align="center">
-  <i>*"If you are what you eat, then I only want to eat the good stuff."🧀🐀*</i>
+  <i>"If you are what you eat, then I only want to eat the good stuff."🧀🐀</i>
 </p>
